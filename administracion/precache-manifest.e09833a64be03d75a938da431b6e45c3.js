@@ -4,11 +4,11 @@ self.__precacheManifest = [
     "url": "/p__Subsidiary.async.js"
   },
   {
-    "revision": "f6ef68cf7a7a7c476fa9",
+    "revision": "50501998f2835ff630ef",
     "url": "/vendors.chunk.css"
   },
   {
-    "revision": "60c4caa3d40bf122b12b",
+    "revision": "5aa892e2f8fa37fdba41",
     "url": "/p__Teacher.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = [
     "url": "/pwacompat.min.js"
   },
   {
-    "revision": "1b45394c78ff8b1a0d5d",
+    "revision": "513faac3a9905b4cc81f",
     "url": "/umi.js"
   },
   {
-    "revision": "1b45394c78ff8b1a0d5d",
+    "revision": "513faac3a9905b4cc81f",
     "url": "/umi.css"
   },
   {
-    "revision": "f6ef68cf7a7a7c476fa9",
+    "revision": "50501998f2835ff630ef",
     "url": "/vendors.async.js"
   },
   {
@@ -44,11 +44,11 @@ self.__precacheManifest = [
     "url": "/p__Course__Course.async.js"
   },
   {
-    "revision": "975fcb6889db9295b003",
+    "revision": "d46f950a82aaad5b603a",
     "url": "/p__Course__Students.chunk.css"
   },
   {
-    "revision": "975fcb6889db9295b003",
+    "revision": "d46f950a82aaad5b603a",
     "url": "/p__Course__Students.async.js"
   },
   {
@@ -60,11 +60,11 @@ self.__precacheManifest = [
     "url": "/p__Exception__500.async.js"
   },
   {
-    "revision": "65a4a4004a5f2d724dd0",
+    "revision": "64c98179cddc51b791d5",
     "url": "/p__Program.chunk.css"
   },
   {
-    "revision": "65a4a4004a5f2d724dd0",
+    "revision": "64c98179cddc51b791d5",
     "url": "/p__Program.async.js"
   },
   {
@@ -72,19 +72,19 @@ self.__precacheManifest = [
     "url": "/p__Program__Setting.async.js"
   },
   {
-    "revision": "088cef347480ee4a9368",
+    "revision": "393a182437b5a7e6b754",
     "url": "/p__Student.chunk.css"
   },
   {
-    "revision": "088cef347480ee4a9368",
+    "revision": "393a182437b5a7e6b754",
     "url": "/p__Student.async.js"
   },
   {
-    "revision": "f647b20baa30609a0835",
+    "revision": "05a9897ad96267552439",
     "url": "/p__Student__Detail.chunk.css"
   },
   {
-    "revision": "f647b20baa30609a0835",
+    "revision": "05a9897ad96267552439",
     "url": "/p__Student__Detail.async.js"
   },
   {
@@ -96,15 +96,15 @@ self.__precacheManifest = [
     "url": "/p__User__Term.async.js"
   },
   {
-    "revision": "0702dce6c8d0022494fd",
+    "revision": "0b3d6217bbdb4752b6bd",
     "url": "/p__User__PostLogin__models__postlogin.js.async.js"
   },
   {
-    "revision": "60c4caa3d40bf122b12b",
+    "revision": "5aa892e2f8fa37fdba41",
     "url": "/p__Teacher.async.js"
   },
   {
-    "revision": "8007efe32fed9162e24e",
+    "revision": "519a377efe5687364489",
     "url": "/p__User__PostLogin.async.js"
   },
   {
@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "/p__User__Forgot.async.js"
   },
   {
-    "revision": "c0f64c310e057ecad4e6",
+    "revision": "257f51b88794bd82c771",
     "url": "/p__User__Forgot__models__forgot.js.async.js"
   },
   {
@@ -124,11 +124,11 @@ self.__precacheManifest = [
     "url": "/p__User__Login.async.js"
   },
   {
-    "revision": "8007efe32fed9162e24e",
+    "revision": "519a377efe5687364489",
     "url": "/p__User__PostLogin.chunk.css"
   },
   {
-    "revision": "be34e82eb8a83d3b043850b697893184",
+    "revision": "acca99c731157e1ee910c43863675d32",
     "url": "/index.html"
   },
   {
@@ -156,11 +156,11 @@ self.__precacheManifest = [
     "url": "/layouts__UserLayout.async.js"
   },
   {
-    "revision": "5e72ee97823df2c44845",
+    "revision": "05f1eb94dc8ff918355f",
     "url": "/layouts__BasicLayout.chunk.css"
   },
   {
-    "revision": "5e72ee97823df2c44845",
+    "revision": "05f1eb94dc8ff918355f",
     "url": "/layouts__BasicLayout.async.js"
   },
   {
